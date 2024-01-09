@@ -1,8 +1,8 @@
 import './Container.css'
 
-const Container = () => {
+const Container = (props) => {
     return (
-        <div>Containera</div>
+        <div>{props.children}</div>
     )
 }
 
