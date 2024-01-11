@@ -3,7 +3,7 @@ import logo from '../../assets/images/logo.png'
 import NavItem, { NavItemDropDown } from '../NavItem/NavItem'
 const Header = () => {
     return (
-        <div className="navbar navbar-expand-md bg-dark navbar-dark">
+        <div className="navbar navbar-expand-md navbar-dark cyborg-navbar">
             <div className="container">
                 <a href="#la" className="navbar-brand">
                     <img src={logo} alt="" />
