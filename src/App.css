@@ -4,7 +4,7 @@
     --color-darkest: #1f2122;
     --color-light: #fff;
     --color-primary: #ec6090;
-
+    --color-icons: yellow;
     --color-bg-body: var(--color-darkest);
 
     --distance-primary: 50px;
@@ -22,4 +22,12 @@
 body {
     background-color: var(--color-bg-body);
     font-family: 'Poppins', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
 }
