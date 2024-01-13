@@ -1,5 +1,5 @@
 .hero-main {
-    background: url(../../assets/images/banner-bg.jpg) no-repeat top right/cover;
+    background: url(../../assets/images/banner_bg.jpg) no-repeat top right/cover;
     background-color: var(--color-dark);
     color: var(--color-light);
     border-radius: var(--border-redius-primary);
